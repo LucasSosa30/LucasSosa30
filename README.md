@@ -6,7 +6,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/lucassosa/">LinkedIn</a> •
-  <a href="mailto:tu-email@ejemplo.com">Contact me</a>
+  <a href="mailto:lucassmdj@gmail.com">Contact me</a> •
+  <a href="./assets/LucasSosaCV.pdf" download>Download CV</a>
 </p>
 
 Software Developer |  ORT Uruguay  |  24y
