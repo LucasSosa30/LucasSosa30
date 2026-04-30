@@ -16,7 +16,7 @@ I care about building real systems, clean architecture, and making things actual
 </td>
 
 <td>
-  <img width="160" src="https://raw.githubusercontent.com/LucasSosa30/LucasSosa30/main/assets/fogata.gif" />
+  <img width="160" src="https://raw.githubusercontent.com/LucasSosa30/LucasSosa30/main/assets/knight.gif" />
 </td>
 
 </tr>
