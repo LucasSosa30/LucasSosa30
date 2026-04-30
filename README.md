@@ -1,14 +1,13 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6fc1d9b3-681c-42b5-80ef-68ae05be9ec6" width="180" />
-</p>
+<img align="right" width="200" src="./assets/fogata.gif" />
 
-<h1 align="center">👋 Hola, I'm <a href="#">Lucas</a></h1>
+<h1>👋 Hi there, I'm <a href="#">Lucas</a></h1>
 
 <p>
   <a href="https://www.linkedin.com/in/lucassosa/">LinkedIn</a> •
   <a href="mailto:tu-email@ejemplo.com">Contact me</a>
 </p>
 
+<br>
 Software Developer | ORT Uruguay  
 
 I care about building real systems, clean architecture, and making things actually work in production.
