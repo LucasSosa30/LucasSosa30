@@ -1,4 +1,6 @@
-<img align="right" width="200" src="./assets/fogata.gif" />
+<table>
+<tr>
+<td>
 
 <h1>👋 Hi there, I'm <a href="#">Lucas</a></h1>
 
@@ -7,10 +9,18 @@
   <a href="mailto:tu-email@ejemplo.com">Contact me</a>
 </p>
 
-<br>
 Software Developer | ORT Uruguay  
 
 I care about building real systems, clean architecture, and making things actually work in production.
+
+</td>
+
+<td>
+  <img width="160" src="https://raw.githubusercontent.com/LucasSosa30/LucasSosa30/main/assets/fogata.gif" />
+</td>
+
+</tr>
+</table>
 
 ---
 
