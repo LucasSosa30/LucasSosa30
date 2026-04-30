@@ -10,7 +10,7 @@
   <a href="./assets/LucasSosaCV.pdf" download>Download CV</a>
 </p>
 
-Software Developer |  ORT Uruguay  |  24y
+Software Developer | ORT Uruguay | 24y | &#x1F1FA;&#x1F1FE;
 
 I care about building real systems, clean architecture, and making things actually work in production.
 
