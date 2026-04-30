@@ -1,6 +1,8 @@
-<img align="right" width="260" src="https://github.com/user-attachments/assets/45987939-060e-46ec-8eb7-2054457d1abf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fc1d9b3-681c-42b5-80ef-68ae05be9ec6" width="180" />
+</p>
 
-<h1>👋 Hi there, I'm <a href="#">Lucas</a></h1>
+<h1 align="center">👋 Hola, I'm <a href="#">Lucas</a></h1>
 
 <p>
   <a href="https://www.linkedin.com/in/lucassosa/">LinkedIn</a> •
