@@ -9,7 +9,7 @@
   <a href="mailto:tu-email@ejemplo.com">Contact me</a>
 </p>
 
-Software Developer | ORT Uruguay  
+Software Developer | ORT Uruguay  | 24y
 
 I care about building real systems, clean architecture, and making things actually work in production.
 
