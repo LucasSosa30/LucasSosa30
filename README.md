@@ -1,48 +1,68 @@
-## 👋 Hola, I’m Lucas
+<img align="right" width="260" src="https://github.com/user-attachments/assets/45987939-060e-46ec-8eb7-2054457d1abf" />
 
-Software Developer | ORT Uruguay
+<h1>👋 Hi there, I'm <a href="#">Lucas</a></h1>
+
+<p>
+  <a href="https://www.linkedin.com/in/lucassosa/">LinkedIn</a> •
+  <a href="mailto:tu-email@ejemplo.com">Contact me</a>
+</p>
+
+Software Developer | ORT Uruguay  
+
 I care about building real systems, clean architecture, and making things actually work in production.
 
-🧠 what I’m hacking on
+---
 
-🧩 building fullstack systems with Node.js + MongoDB + .NET
-🔐 working with auth, JWT, roles, and real-world business logic
-🚀 shipping projects like Gestión de Envíos and Club Deportivo apps
-🛠️ improving my workflow with Git, APIs, and deployments (Vercel, Atlas)
+### 🧑‍💻 About Me
 
-💡 beliefs
+🇺🇾 From Uruguay  
+🎓 Studying Ingeniería en Sistemas at ORT  
+💼 Experience in IT Support @ PwC  
+💻 Ex Salesforce Developer @ Tata Consultancy Services  
+🎸 Learning guitar (currently grinding Sultans of Swing 😄)  
+⚽ Football fan  
 
-momentum > perfection
-simple solutions > overengineering
-you learn by building, not watching
-real projects beat tutorials
-consistency compounds
-small teams that execute > big teams that plan
+---
 
-⚡ a bit about me
+### 🚀 What I’m building
 
-🇺🇾 from Uruguay
-🎓 studying Ingeniería en Sistemas at ORT
-💼 experience in IT Support @ PwC
-💻 ex Salesforce Developer @ Tata Consultancy Services
-🎸 learning guitar (currently grinding Sultans of Swing 😄)
-⚽ football fan
+🧩 Fullstack systems with Node.js + MongoDB + .NET  
+🔐 Working with auth, JWT, roles, and real-world business logic  
+🚀 Projects like Gestión de Envíos and Club Deportivo apps  
+🛠️ Improving workflow with Git, APIs, and deployments (Vercel, Atlas)  
 
-🚀 interests
+---
 
-building scalable systems
-clean backend architecture
-AI integration in real apps
-developer experience
-problem solving through code
+### 🧰 Tech Stack / Certifications
 
-🌍 what drives me
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-0A2540?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-0A2540?style=flat-square&logo=c-sharp)
+![SQL](https://img.shields.io/badge/SQL-0A2540?style=flat-square&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-0A2540?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A2540?style=flat-square&logo=css3)
 
-creating useful software
-learning fast and improving constantly
-turning ideas into working products
+**Frameworks & Libraries:**  
+![Node.js](https://img.shields.io/badge/Node.js-0A2540?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0A2540?style=flat-square&logo=express)
+![.NET](https://img.shields.io/badge/.NET-0A2540?style=flat-square&logo=dotnet)
 
-🔗 connect
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-0A2540?style=flat-square&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0A2540?style=flat-square&logo=microsoft-sql-server)
 
-GitHub: (tu usuario)
-LinkedIn: (tu perfil)
+**Tools and Platforms:**  
+![Git](https://img.shields.io/badge/Git-0A2540?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A2540?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-0A2540?style=flat-square&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-0A2540?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A2540?style=flat-square&logo=visualstudiocode)
+
+---
+
+### 🏆 Certification Badges
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c5f8e5e-73ca-428a-9598-70426704dee6" width="140"/>
+  <img src="https://github.com/user-attachments/assets/c8d7fd41-98a0-41ac-a069-4aa6b3e49fa4" width="140"/>
+</p>
