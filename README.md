@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-<h1>👋 Hi there, I'm <a href="#">Lucas</a></h1>
+<h1>👋 Hola, Soy <a href="#">Lucas</a></h1>
 
 <p>
   <a href="https://www.linkedin.com/in/lucassosa/">LinkedIn</a> •
